@@ -1,0 +1,15 @@
+# The Evolution of Artificial Intelligence: From Turing to Generative AI
+
+Artificial Intelligence (AI) began as an academic discipline in 1956 at Dartmouth College during a summer workshop organized by John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon. McCarthy coined the term "Artificial Intelligence" to define the science and engineering of making intelligent machines.
+
+## Early Milestones (1950s - 1970s)
+In 1950, British mathematician Alan Turing published his seminal paper "Computing Machinery and Intelligence," introducing the "Imitation Game" (now known as the Turing Test) to determine whether a machine can exhibit human-equivalent intelligence. Early successes included Arthur Samuel's checkers-playing program in 1952, which learned from experience, and Joseph Weizenbaum's ELIZA program in 1966, one of the first natural language processing chatterbots.
+
+## The AI Winters
+The field experienced cyclical periods of reduced funding and skepticism, famously referred to as "AI Winters." The first AI Winter occurred in the mid-1970s following the British Lighthill Report (1973) and the US DARPA funding cuts. The second major winter emerged in the late 1980s following the collapse of the commercial Lisp machine and expert systems market.
+
+## The Deep Learning Revolution (2010s)
+The resurgence of AI was propelled by three converging factors: vast amounts of digitized data (Big Data), massive parallel computing power enabled by Graphics Processing Units (GPUs), and theoretical breakthroughs in deep neural networks. In 2012, AlexNet, a deep convolutional neural network designed by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton, decisively won the ImageNet Large Scale Visual Recognition Challenge, slashing error rates from 26% to 15.3%.
+
+## The Transformer Architecture and Modern LLMs (2017 - Present)
+In 2017, researchers at Google published "Attention Is All You Need," introducing the Transformer architecture. By replacing recurrent mechanisms with self-attention, Transformers enabled unprecedented parallel training over massive corpora of text. This breakthrough formed the foundation for modern Large Language Models (LLMs) such as BERT, GPT series, and Google Gemini. Today, Retrieval-Augmented Generation (RAG) is a standard architectural pattern bridging static parametric knowledge with dynamic external knowledge retrieval.
